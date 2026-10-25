@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/banner.jpg" alt="x86 Traffic Light Controller" width="800"/>
+  <img src="./images/banner-.jpg" alt="x86 Traffic Light Controller" width="800"/>
 </p>
 
 <h1 align="center">x86 Traffic Light Controller</h1>
